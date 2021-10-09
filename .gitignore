@@ -60,3 +60,6 @@ sysinfo.txt
 
 # GNU/Linux specials
 .directory
+
+# Builds
+*.exe
