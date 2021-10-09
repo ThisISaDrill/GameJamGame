@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/benjamin.housekelly/Source/Repos/GameJamGame/OSHAGame/Packages/manifest.json
+    m_FilePath: C:/Users/My Laptop Baby/Source/Repos/GameJamGame/OSHAGame/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637693952887405314
-    m_Hash: 3172643019
+      ticks: 637694083495384868
+    m_Hash: 678865661
   m_LockFileStatus:
-    m_FilePath: C:/Users/benjamin.housekelly/Source/Repos/GameJamGame/OSHAGame/Packages/packages-lock.json
+    m_FilePath: C:/Users/My Laptop Baby/Source/Repos/GameJamGame/OSHAGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637693953213503799
-    m_Hash: 1687783839
+      ticks: 637694083495424667
+    m_Hash: 4184705439
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/benjamin.housekelly/Source/Repos/GameJamGame/OSHAGame/Packages
+m_ProjectPath: C:/Users/My Laptop Baby/Source/Repos/GameJamGame/OSHAGame/Packages
 m_EditorVersion: 2021.1.18f1 (25bdc3efbc2d)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -81,7 +81,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -134,7 +134,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.7.8
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.cinemachine@2.7.8
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.cinemachine@2.7.8
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -200,6 +200,7 @@ m_ResolvedPackages:
     - 2.8.0-exp.2
     - 2.8.0-pre.1
     - 2.8.0
+    - 2.8.1
     compatible:
     - 2.7.4
     - 2.7.5
@@ -208,6 +209,7 @@ m_ResolvedPackages:
     - 2.8.0-exp.2
     - 2.8.0-pre.1
     - 2.8.0
+    - 2.8.1
     verified: 2.7.8
   dependencies: []
   resolvedDependencies: []
@@ -262,7 +264,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.11
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -338,7 +340,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.3
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ide.vscode@1.2.3
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ide.vscode@1.2.3
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -402,7 +404,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -563,7 +565,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.6
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.timeline@1.5.6
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.timeline@1.5.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -705,7 +707,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -770,7 +772,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -821,7 +823,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -872,7 +874,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -923,7 +925,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -975,7 +977,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1026,7 +1028,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1077,7 +1079,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1128,7 +1130,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1179,7 +1181,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -1233,7 +1235,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -1284,7 +1286,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -1351,7 +1353,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -1413,7 +1415,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1472,7 +1474,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.27
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.test-framework@1.1.27
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.test-framework@1.1.27
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1567,7 +1569,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\benjamin.housekelly\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\My Laptop Baby\Source\Repos\GameJamGame\OSHAGame\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -1583,11 +1585,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.1.5-preview
-    - 0.1.6-preview
-    - 0.1.9-preview
-    - 1.0.0
-    - 1.0.5
     - 1.0.6
     compatible:
     - 1.0.6
@@ -1610,7 +1607,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637429759280000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
