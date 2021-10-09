@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour
     {
         myRigidbody2D = gameObject.GetComponent<Rigidbody2D>();
     }
+    
     // Update is called once per frame
     void Update()
     {
@@ -30,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     void CheckInput()
     {
         xMove = Input.GetAxis("Horizontal") * xSpeed;
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Jump") || Input.GetButtonDown("Fire1") && isGrounded)
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             shouldJump = true;
         }
@@ -77,4 +78,6 @@ public class PlayerMovement : MonoBehaviour
             transform.parent = null;
         }
     }
+
+    
 }
