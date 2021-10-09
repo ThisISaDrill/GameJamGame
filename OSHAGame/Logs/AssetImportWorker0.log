@@ -141,3 +141,4 @@ Received Import Request.
   path: Assets/Sprites/Trees/YellowTree3.png
   artifactKey: Guid(5d1eb80723d157447b81ab49b0f01f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Trees/YellowTree3.png using Guid(5d1eb80723d157447b81ab49b0f01f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2bfce738f5c0663851df429a057e60') in 0.212928 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
