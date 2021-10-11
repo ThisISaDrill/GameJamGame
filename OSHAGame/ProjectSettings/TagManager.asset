@@ -6,6 +6,7 @@ TagManager:
   tags:
   - MovingPlatform
   - Clipboard
+  - Interactable
   layers:
   - Default
   - TransparentFX

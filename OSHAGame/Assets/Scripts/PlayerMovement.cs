@@ -11,6 +11,8 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D myRigidbody2D;
     public LayerMask ground;
     public Transform groundCheck;
+    bool interacting = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,12 +31,20 @@ public class PlayerMovement : MonoBehaviour
         CheckGround();
     }
     void CheckInput()
-    {
-        xMove = Input.GetAxis("Horizontal") * xSpeed;
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+    {   
+        if(!interacting)
         {
-            shouldJump = true;
+            xMove = Input.GetAxis("Horizontal") * xSpeed;
+            if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+            {
+                shouldJump = true;
+            }
         }
+        else
+        {
+            xMove = 0f;
+        }
+        
     }
     void CheckJump()
     {
@@ -70,6 +80,7 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.parent = collision.transform;
         }
+        
     }
     void OnCollisionExit2D(Collision2D collision)
     {
@@ -77,6 +88,12 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.parent = null;
         }
+        
+    }
+
+    public void isInteracting()
+    {
+        interacting = !interacting;
     }
 
     
